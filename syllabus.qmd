@@ -4,22 +4,63 @@ title: "Syllabus"
 
 Jump to:
 
-- [About Stat 201b](#about)
-  - [Goals](#goals)
+- [Course Description](#about)
+  - [Weekly Summary](#goals)
   - [Prerequisites](#prerequisites)
+  - [Textbook](#textbook)
+  - [Online Tools](#online)
 
 
-## About Stat 201b
+## Course Description:
+We will cover the fundamentals of statistical inference, testing, and modeling, including point estimation, confidence intervals, hypothesis testing, linear models, large sample theory, categorical models, decision theory, and classification.
+ 
+The course is primarily a survey of the theoretical basis for the statistical methods frequently encountered, but students will also do some implementation of the techniques on data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+### Weekly Summary
 
-### Goals
-
-
-- Goal 1
-- Goal 2
-- Goal 3
+Week | Chapter | Topic  
+:------------ | :------------- | :------------- | 
+1 | 6 | Introduction to inference 
+2-3| 7|Non-parametric inference
+ |8| The bootstrap
+3-5|9|Parametric inference
+5-7| 10 | Hypothesis testing
+8-9| 11|Bayesian statistics
+10-11|12|Decision theory
+12| 13, 20.4 |Regression
+13|20.2-20.3| Density estimation
+ | | Non-parametric regression
 
 ### Prerequisites
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+This course expects students to have either taken Stat 201A ("Introduction to Probability at an Advanced Level") or to be taking it concurrently. Also assumed is multivariable calculus (at the level of Berkeley’s MATH 53) and linear algebra (at the level of Berkeley’s MATH 54). 
+
+We also implicitly assume basic previous experience with statistics or data analysis, e.g. confidence intervals, p-values, etc. This course goes through the rationale behind those concepts, but has only a limited amount of hands-on experience with the tools. 
+
+
+### Textbook
+
+We will be following the content of “All of Statistics” by Larry Wasserman, Section II and parts of Section III. It is available [online for free](https://link-springer-com.libproxy.berkeley.edu/book/10.1007/978-0-387-21736-9#about) for UC Berkeley. 
+
+However, at times, the content of the book is not detailed enough, so the material in lectures will fill this out. Homework and exam questions will be based on the lectures!
+
+Additional useful references:
+
+1. ”Probability and Statistics” by Morris H. DeGroot. It is detailed but still misses some modern components and depth.
+2. “Statistical Inference” by Casella and Berger. It is detailed and present “traditional” topics in more depth. But it lacks materials on modern topics.
+3. “Theoretical Statistics: Topics for a Core Course” by Robert Keener. This book is detailed and has relatively more modern topics than the Casella and Berger book.
+
+Note that the textbook for 201A is "An Intermediate Course in Probability" by Allan Gut if you are looking for probability background (you can also refer to Section I of Wasserman).
+
+### Online tools
+
+We will use several different online services in the class that are probably familiar to you:
+
+Resource | Materials |
+:------------ | :------------- | 
+Bcourses | We will post HWs, Solutions, Practice midterms, etc on Bcourses. Grades, announcements, updates, and the like will also be through Bcourses |
+Ed Discussion | You can link to the Ed Discussion via bcourses – clicking on the link on the side. The GSI will check Ed Discussion at least once a day. |
+Gradescope | HW Assignments will be submitted to gradescope. |
+
+We suggest making use of Ed Discussion to get simpler questions and clarifications answered, and focusing on questions that need more hands-on explanations for office hours. 
+
