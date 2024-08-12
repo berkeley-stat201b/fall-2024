@@ -20,16 +20,16 @@ The course is primarily a survey of the theoretical basis for the statistical me
 
 Week | Chapter | Topic  
 :------------ | :------------- | :------------- | 
-1 | 6 | Introduction to inference 
-2-3| 7|Non-parametric inference
- |8| The bootstrap
-3-5|9|Parametric inference
-5-7| 10 | Hypothesis testing
-8-9| 11|Bayesian statistics
-10-11|12|Decision theory
-12| 13, 20.4 |Regression
-13|20.2-20.3| Density estimation
- | | Non-parametric regression
+1-2 | 6 | Introduction to inference 
+3-4 | 9 | Parametric inference
+5-6| 7 | Non-parametric inference
+ | 8 | The bootstrap
+7-8 | 10 | Hypothesis testing
+9-10| 11| Bayesian statistics
+11-12 | 12 | Decision theory
+13-15 | | More advanced setting
+
+The last two weeks will look at a more advanced example from the perspective of estimation and decision theory. Previous years' topics have included multivariate regression, or non-parametric density estimation.
 
 ### Prerequisites
 
@@ -58,9 +58,13 @@ We will use several different online services in the class that are probably fam
 
 Resource | Materials |
 :------------ | :------------- | 
-Bcourses | We will post HWs, Solutions, Practice midterms, etc on Bcourses. Grades, announcements, updates, and the like will also be through Bcourses |
-Ed Discussion | You can link to the Ed Discussion via bcourses – clicking on the link on the side. The GSI will check Ed Discussion at least once a day. |
-Gradescope | HW Assignments will be submitted to gradescope. |
+bCourses | We will post HWs, Solutions, Practice midterms, etc on Bcourses. |
+Ed Discussion | Announcements, updates, and the like will also be largely through Ed Discussion. The GSI will check Ed Discussion at least once a day.  |
+Gradescope | Grading will all be done on gradescope. HW Assignments will be submitted directly by students to gradescope. Exams will be uploaded by the GSI and graded on Gradescope. |
 
 We suggest making use of Ed Discussion to get simpler questions and clarifications answered, and focusing on questions that need more hands-on explanations for office hours. 
+
+You can link to the Ed Discussion and Gradescope via bCourses – click on the navigational link on the side. 
+
+
 

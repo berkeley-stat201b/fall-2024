@@ -1,10 +1,10 @@
 - button: Ed
-  link: https://berkeley.edu
+  link: https://edstem.org/us/
   color: purple
-- button: DataHub
-  link: https://berkeley.edu
+- button: bCourses
+  link: https://bcourses.berkeley.edu/courses/1527722
   color: green
 - button: Gradescope
-  link: https://berkeley.edu
+  link: https://gradescope.berkeley.edu
   color: orange
 

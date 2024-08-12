@@ -17,10 +17,10 @@ Office hours: <br>
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">TBD</a><br>
-`y@berkeley.edu`<br>
+**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Katherine Kempfert</a><br>
+`kempfert@berkeley.edu`<br>
 Office hours:<br>
-- TBD
+- TBD <br>
 :::
 
 
