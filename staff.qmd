@@ -17,7 +17,7 @@ Office hours: <br>
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Katherine Kempfert</a><br>
+**GSI**: <a href="https://kkempfert.github.io/" target="_blank">Katherine Kempfert</a><br>
 `kempfert@berkeley.edu`<br>
 Office hours:<br>
 - TBD <br>
