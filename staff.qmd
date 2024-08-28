@@ -12,8 +12,8 @@ Office hours are subject to change.
 ::: {.g-col-4}
 **Instructor:** <a href="https://stat.berkeley.edu/~epurdom" target='_blank'>Elizabeth Purdom</a><br>
 `epurdom@berkeley.edu`<br>
-Office hours: <br>
-- TBD<br>
+Office hours: W 1-3pm, Evans 433<br>
+<br>
 :::
 
 ::: {.g-col-4}
